@@ -1,0 +1,53 @@
+---------- Combat Game Transcript ----------
+
+User Name: Divi
+
+Dog (PC) vs. Raccoon (NPC)
+
+---------- Round #1 ----------
+Dog: Attack
+Raccoon: Dodge
+
+Dog damage: 0
+Raccoon damage: 38
+Dog health: 100
+Raccoon health: 62
+
+---------- Round #2 ----------
+Dog: Dodge
+Raccoon: Dodge
+
+Dog damage: 0
+Raccoon damage: 0
+Dog health: 100
+Raccoon health: 62
+
+---------- Round #3 ----------
+Dog: Dodge
+Raccoon: Attack
+
+Dog damage: 24
+Raccoon damage: 0
+Dog health: 76
+Raccoon health: 62
+
+---------- Round #4 ----------
+Dog: Attack
+Raccoon: Dodge
+
+Dog damage: 0
+Raccoon damage: 39
+Dog health: 76
+Raccoon health: 23
+
+---------- Round #5 ----------
+Dog: Attack
+Raccoon: Attack
+
+Dog damage: 36
+Raccoon damage: 40
+Dog health: 40
+Raccoon health: 0
+
+---------- Result ----------
+Dog (PC) won
